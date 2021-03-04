@@ -1,5 +1,5 @@
 # Jiraya
-  ### This is a simple Dashboard and Skills page ::joy:
+  ### This is a simple Dashboard and Skills page :joy:
     Special thanks to https://github.com/developedbyed who inspiring me in his tutorial.
   
 ## What I used :computer:
