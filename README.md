@@ -1,5 +1,5 @@
-# jiraya
-  ### This is my first Tic-tac-toe :heart_eyes::open_mouth::joy:
+# Jiraya
+  ### This is a simple Dashboard and Skills page :heart_eyes::open_mouth::joy:
     Special thanks to https://github.com/developedbyed who inspiring me in his tutorial.
   
 ## What I used :computer:
